@@ -1,0 +1,18 @@
+[2020/03/04]
+8h - 12h:  boo
+13 - 15h: ha
+15h - 15h15m: blau
+15h15m - 15h30m: a
+15h30m10 - 17: bl
+
+[2020/03/05]
+8h - 12h:  stuff
+13h - 15h: more - stuff
+15h - 15h15m10s: somestuff
+15h15m - 15h30: ha
+15h30m - 17h: boo
+
+
+# comment
+; comment
+
